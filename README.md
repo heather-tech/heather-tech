@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heather-tech
 - 👀 I’m interested in teaching myself to code
-- 🌱 I’m currently learning the basics
+- 🌱 I’m currently learning javascript
 - 💞️ My goal is to become a software engineer within the next year
 
 <!---
