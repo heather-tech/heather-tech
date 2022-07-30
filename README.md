@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @heather-tech
-- 👀 I’m interested in teaching myself to code
-- 🌱 I’m currently learning javascript
-- 💞️ My goal is to become a software engineer within the next year
+<h1>👋 Hello! My name is Heather Kruszewski.<h1>
+<h2>Software Engineer @ 100Devs<h2>
+  <br>
+  <h3>
+  <p>I am a passionate coder with a love for learning and desire to solve complex problems.   Throughout my career, I have excelled in managing multiple projects and tackling new       tasks as priorities shift.<p>
+    <ul>
+      <li> 🌍 I live in Atlanta, Indiana.</li>
+      <li> 🧠 I'm learning Javascript.</li>
+      </h3>
 
 <!---
 heather-tech/heather-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
