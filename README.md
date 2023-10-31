@@ -1,8 +1,19 @@
-<h1>👋 Hello! My name is Heather Kruszewski.<h1>
-<h2>Software Engineer @ Flatiron School<h2>
-  <br>
-  <h3>
-  <p>I am a passionate coder with a love for learning and desire to solve complex problems.   Throughout my career, I have excelled in managing multiple projects and tackling new       tasks as priorities shift.<p>
+<h1 align="center">Hey! My name is Heather Kruszewski.</h1>
+  
+<h3 align="center">Software Engineer @ Flatiron School </h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/heather-kruszewski" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="heatherk linked-in"/>
+ </a>
+ </p>
+
+## About Me
+👩🏼‍💻 I am a Full Stack Software Engineer, living in Indiana. <br>
+🧩 I love puzzles and so do our cats. <br>
+🎮 Lover of video games. <br>
+🌍 Long term goal is to move to Europe! <br>
+📧 Contact Me: heather.k.tech@gmail.com 
 
 ## Technologies
 
@@ -17,13 +28,18 @@
 
 ## Projects 
 
-### **[App Journal](https://github.com/heather-tech/APP-JOURNAL)** | Store all of your future app ideas
+### **[App Journal](https://github.com/heather-tech/APP-JOURNAL)** | A Front-End Application that stores all of your future app ideas.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
 ![React](https://img.shields.io/badge/React-61DBFB)
 ![HTML](https://img.shields.io/badge/HTML-white)
 ![CSS](https://img.shields.io/badge/CSS-white)
 
+### **[Books For Everyone](https://github.com/heather-tech/Book-App)** | A Front-End Application that currently has twenty-two highly rated, inclusive books with five different genres.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
+![HTML](https://img.shields.io/badge/HTML-white)
+![CSS](https://img.shields.io/badge/CSS-white)
 <!---
 heather-tech/heather-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
