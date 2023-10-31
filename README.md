@@ -17,7 +17,7 @@
 
 ## Projects 
 
-### **[App Journal] (https://github.com/heather-tech/APP-JOURNAL)** | Store all of your future app ideas
+### **[App Journal](https://github.com/heather-tech/APP-JOURNAL)** | Store all of your future app ideas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
 ![React](https://img.shields.io/badge/React-61DBFB)
