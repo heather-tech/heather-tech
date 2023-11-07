@@ -9,9 +9,9 @@
  </p>
 
 ## About Me
-👩🏼‍💻 I am a Full Stack Software Engineer, living in Indiana. <br>
+👩🏼‍💻 I love coding and seeing what I can create. <br>
 🧩 I love puzzles and so do our cats. <br>
-🎮 Lover of video games. <br>
+🎮 I play too many video games. <br>
 🌍 Long term goal is to move to Europe! <br>
 📧 Contact Me: heather.k.tech@gmail.com 
 
@@ -24,6 +24,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
 
 
 ## Projects 
