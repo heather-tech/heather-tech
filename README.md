@@ -5,8 +5,13 @@
 <p align="center">
 <a href="https://linkedin.com/in/heather-kruszewski" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="heatherk linked-in"/>
+<a href="https://www.heatherkruszewski.dev/" target="blank">
+  <img src="https://img.shields.io/badge/Website-8C52FF?style=for-the-badge&logo=netlify&logoColor=white" alt="heatherk website" />
  </a>
  </p>
+  
+
+
 
 ## About Me
 👩🏼‍💻 I love coding and seeing what I can create. <br>
