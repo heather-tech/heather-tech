@@ -15,7 +15,7 @@
 
 ## About Me
 👩🏼‍💻 I love coding and seeing what I can create. <br>
-🧩 I love puzzles and so do our cats. <br>
+📖 I love reading!  <br>
 🎮 I play too many video games. <br>
 🌍 Long term goal is to move to Europe! <br>
 📧 Contact Me: heather.k.tech@gmail.com 
