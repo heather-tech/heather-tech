@@ -34,18 +34,12 @@
 
 ## Projects 
 
-### **[App Journal](https://github.com/heather-tech/APP-JOURNAL)** | A Front-End Application that stores all of your future app ideas.
+### **[StoryStacker](https://github.com/heather-tech/StoryStacker)** | A user-friendly command-line interface (CLI) application that allows Book Club leaders to efficiently manage authors, books, and its members.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
-![React](https://img.shields.io/badge/React-61DBFB)
-![HTML](https://img.shields.io/badge/HTML-white)
-![CSS](https://img.shields.io/badge/CSS-white)
+### **[App Journal](https://github.com/heather-tech/APP-JOURNAL)** | A Front-End Application that stores all of your future app ideas.
 
 ### **[Books For Everyone](https://github.com/heather-tech/Book-App)** | A Front-End Application that currently has twenty-two highly rated, inclusive books with five different genres.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
-![HTML](https://img.shields.io/badge/HTML-white)
-![CSS](https://img.shields.io/badge/CSS-white)
 <!---
 heather-tech/heather-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
