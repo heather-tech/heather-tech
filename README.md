@@ -34,11 +34,12 @@
 
 ## Projects 
 
+### **[Blissful Bites](https://github.com/heather-tech/BlissfulBites)** | A site that allows you to view, add, edit and delete recipes.
+
 ### **[StoryStacker](https://github.com/heather-tech/StoryStacker)** | A user-friendly command-line interface (CLI) application that allows Book Club leaders to efficiently manage authors, books, and its members.
 
 ### **[App Journal](https://github.com/heather-tech/APP-JOURNAL)** | A Front-End Application that stores all of your future app ideas.
 
-### **[Books For Everyone](https://github.com/heather-tech/Book-App)** | A Front-End Application that currently has twenty-two highly rated, inclusive books with five different genres.
 
 <!---
 heather-tech/heather-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
