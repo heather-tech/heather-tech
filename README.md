@@ -1,5 +1,5 @@
 <h1 align="center">Hey! My name is Heather Kruszewski.</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">I am a Full Stack Software Engineer.</h3>
 <div align="center"> 
   
 ![](https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif)
